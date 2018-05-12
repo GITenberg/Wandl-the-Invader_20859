@@ -1,0 +1,33 @@
+_repo: Wandl-the-Invader_20859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cummings, Ray
+    alias: Cummings, Raymond King
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '8443'
+    url: http://www.gutenberg.org/2009/agents/8443
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Cummings
+description: There were nine major planets in the Solar System and it was within their
+  boundaries that man first set up interplanetary commerce and began trading with
+  the ancient Martian civilization. And then they discovered a tenth planet-a maverick.
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Wandl the Invader
+url: http://www.gutenberg.org/ebooks/20859
